@@ -1,0 +1,5 @@
+- 👋 Hi, I’m JayMakesVids
+- 👀 I’m interested in website making, and holding large databases.
+- 🌱 I’m currently learning how to expand storage in my database for my social media website.
+- 💞️ I’m looking to collaborate on projects similar to website-design, domain help, and/or database storing.
+- 📫 How to reach me? Contact jaymakesvids@protonmail.com
